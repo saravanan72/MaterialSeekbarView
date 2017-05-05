@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\JMI-JABORD-BACKUP\9-3-17\MaterialSeekbar\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\JMI-JABORD-BACKUP\9-3-17\MaterialSeekbar\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_21191ae834a850d0f8151557a45f512c41ced55c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\JMI-JABORD-BACKUP\9-3-17\MaterialSeekbar\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\JMI-JABORD-BACKUP\9-3-17\MaterialSeekbar\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_ceb5fcfceacedbf0e5786c456e1861f2c43c6f6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\JMI-JABORD-BACKUP\9-3-17\MaterialSeekbar\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\JMI-JABORD-BACKUP\9-3-17\MaterialSeekbar\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_c8ee31e50d42ed4f54ad49fa0f75d687d7d74dc7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\JMI-JABORD-BACKUP\9-3-17\MaterialSeekbar\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\JMI-JABORD-BACKUP\9-3-17\MaterialSeekbar\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_67d071ee2e7bbd6aea0482b46e3eb42304cfb855.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\JMI-JABORD-BACKUP\9-3-17\MaterialSeekbar\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\JMI-JABORD-BACKUP\9-3-17\MaterialSeekbar\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_243d07171f920fad376e15d062b3cdc2313bb2a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\JMI-JABORD-BACKUP\9-3-17\MaterialSeekbar\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\JMI-JABORD-BACKUP\9-3-17\MaterialSeekbar\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_291cb2dc01c6015bd8896df01aa63458bd7b7d27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\JMI-JABORD-BACKUP\9-3-17\MaterialSeekbar\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\JMI-JABORD-BACKUP\9-3-17\MaterialSeekbar\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_a8e533f7eda5f76bd0d1603d409dad87da236089.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\JMI-JABORD-BACKUP\9-3-17\MaterialSeekbar\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\JMI-JABORD-BACKUP\9-3-17\MaterialSeekbar\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_13221f2187b1531bee78e2c3f2fed13f349c44e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\JMI-JABORD-BACKUP\9-3-17\MaterialSeekbar\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\JMI-JABORD-BACKUP\9-3-17\MaterialSeekbar\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_5c2a4b233a822a6dda8d64cc0b5d95a919c820d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\JMI-JABORD-BACKUP\9-3-17\MaterialSeekbar\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\JMI-JABORD-BACKUP\9-3-17\MaterialSeekbar\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_9653ab48716ad6c220378a7a72a05e9620fc2120.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\JMI-JABORD-BACKUP\9-3-17\MaterialSeekbar\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\JMI-JABORD-BACKUP\9-3-17\MaterialSeekbar\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_12822403a50bebb110a45add03dc60d48803c897.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\JMI-JABORD-BACKUP\9-3-17\MaterialSeekbar\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\JMI-JABORD-BACKUP\9-3-17\MaterialSeekbar\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_1510ad5bb010cbbdb86056880f2a4bcf3dfe1727.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\JMI-JABORD-BACKUP\9-3-17\MaterialSeekbar\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\JMI-JABORD-BACKUP\9-3-17\MaterialSeekbar\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_cafb7bfdee23361526deda72df399f448c0b17d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\JMI-JABORD-BACKUP\9-3-17\MaterialSeekbar\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\JMI-JABORD-BACKUP\9-3-17\MaterialSeekbar\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_ee28594d5b347ac3dfd399213941cf56327207c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Saravana.Pandian\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="D:\JMI-JABORD-BACKUP\9-3-17\MaterialSeekbar\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_38da89620436a61bd6c4782048cb45345583c13a.jar" />
+    </item>
+
+</items>

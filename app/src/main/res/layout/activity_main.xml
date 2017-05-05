@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:swagpoints="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary"
+    >
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimaryDark"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/toolbar"
+        android:orientation="vertical"
+        >
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/text_description"
+            android:textColor="@color/colorText"
+            android:textSize="20sp"
+            android:layout_margin="32dp"
+            />
+
+        <com.sarvan.android.app.materialseekbar.materialseekbar.SwagPoints
+            xmlns:swagpoints="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/seekbar_point"
+            android:layout_width="match_parent"
+            android:layout_height="340dp"
+            android:layout_gravity="center"
+            android:padding="64dp"
+            swagpoints:max="100"
+            swagpoints:clockwise="true"
+            swagpoints:min="1"
+            swagpoints:step="1"
+            swagpoints:textColor="#008080"
+            swagpoints:textSize="36sp"
+            swagpoints:progressColor="#20B2AA"
+            swagpoints:progressWidth="12dp"
+            swagpoints:arcColor="@color/color_arc"
+            swagpoints:arcWidth="10dp"
+            swagpoints:indicatorIcon="@drawable/indicator"
+            android:background="@color/colorPrimary"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:layout_gravity="bottom"
+        android:background="@color/colorAction"
+        android:baselineAligned="false"
+        android:gravity="bottom"
+        android:orientation="horizontal"
+        android:layout_alignParentBottom="true"
+        >
+
+        <ImageButton
+            style="@style/ActionButton"
+            android:src="@drawable/cancel"/>
+
+        <ImageButton
+            style="@style/ActionButton"
+            android:src="@drawable/ok"/>
+
+    </LinearLayout>
+
+</RelativeLayout>
